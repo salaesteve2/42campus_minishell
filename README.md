@@ -18,7 +18,7 @@ The target of this project is to develope a shell based in bash in C language.
 ## How to use it
 You can clone this repository by running the following command:
 ```bash
-git clone https://github.com/NachoDonaire/minishell.git
+git clone https://github.com/salaesteve2/minishell.git
 ```
 
 Then, run the command make and, after a short wait, you will have an executable named minishell. You can run the following command:
