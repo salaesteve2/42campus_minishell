@@ -41,4 +41,4 @@ Redirections, heredoc, signals like ctrl + C or ctrl + D are also handled.
 leaky.sh is a script only available if you have de leak command which appears by default in iOS computers. This file checks the existence of memory leaks in the program once the program is running.
 
 ## Credit
-The project was developed by @salaesteve2 and myself.
+The project was developed by @NachoDonaire and myself.
